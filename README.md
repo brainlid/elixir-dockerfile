@@ -1,4 +1,4 @@
-#Elixir Dockerfile
+# Elixir Dockerfile
 
 This Dockerfile enables you to create your own [Elixir](http://www.elixir-lang.org) and [Erlang OTP](http://www.erlang.org/) docker image using the latest version of both.
 
